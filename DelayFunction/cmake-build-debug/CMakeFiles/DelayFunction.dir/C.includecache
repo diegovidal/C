@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/diegovidal/CLionProjects/rev/DelayFunction/main.c
+stdio.h
+-
+time.h
+/Users/diegovidal/CLionProjects/rev/DelayFunction/time.h
+

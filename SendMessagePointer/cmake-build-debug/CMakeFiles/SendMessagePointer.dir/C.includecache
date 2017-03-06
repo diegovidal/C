@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/diegovidal/CLionProjects/rev/SendMessagePointer/main.c
+stdio.h
+-
+ntsid.h
+-
+pthread.h
+-
+
